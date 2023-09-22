@@ -1,0 +1,22 @@
+img {
+    float: left;
+}
+
+.submission {
+    border: 2px solid;
+    padding: 5px;
+    font-size: 20px;
+    width: 50%;
+    margin-left: 10%;
+    float: left;
+}
+
+.submission input {
+    width: 70%;
+}
+
+.submission input.submitbutton {
+    width: auto;
+    text-align: center;
+    font-size: 20px;
+}

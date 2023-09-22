@@ -1,0 +1,26 @@
+.hero-image {
+    text-align: center;
+    padding-top: 10px;
+    height: auto;
+}
+
+.hero-name {
+    text-align: center;
+}
+
+h1 {
+    font-size: 100px;
+}
+
+h2 {
+    font-size: 50px;
+}
+
+#about {
+    clear: both;
+    padding-top: 50px;
+}
+
+body {
+    background-color: grey;
+}

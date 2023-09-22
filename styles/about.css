@@ -1,0 +1,60 @@
+h1 {
+    font-size: 50px;
+    border: 5px;
+    margin: 0;
+    text-align: left;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+.mydescription {
+    font-size: 20px;
+}
+
+.myskills p {
+    font-size: 20px;
+}
+
+.container {
+    width: 100%;
+    background-color: grey;
+}
+
+.skills {
+    text-align: right;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+
+}
+
+.python {
+    width: 40%;
+    background-color: red;
+}
+
+.java {
+    width: 20%;
+    background-color: green;
+}
+
+.html {
+    width: 10%;
+    background-color: blue;
+}
+
+.bash {
+    width: 15%;
+    background-color: black;
+}
+
+.git {
+    width: 10%;
+    background-color: purple;
+}
+
+.hobbies p {
+    font-size: 20px;
+}
