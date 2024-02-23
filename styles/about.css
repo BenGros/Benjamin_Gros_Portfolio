@@ -31,33 +31,37 @@ h2 {
 }
 
 .python {
-    width: 40%;
+    width: 70%;
     background-color: red;
 }
 
 .java {
-    width: 50%;
-    background-color: green;
+    width: 80%;
+    background-color: darkgoldenrod;
 }
 
 .html {
-    width: 20%;
+    width: 40%;
     background-color: blue;
 }
 
 .bash {
-    width: 15%;
+    width: 70%;
     background-color: black;
 }
 
 .git {
-    width: 20%;
+    width: 50%;
     background-color: purple;
 }
 
 .js {
-    width: 35%;
+    width: 65%;
     background-color: darkslategray
+}
+.excel {
+    width:85%;
+    background-color: darkgreen;
 }
 
 .hobbies p {

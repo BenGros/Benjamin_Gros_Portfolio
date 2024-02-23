@@ -33,11 +33,12 @@ p.description {
     margin: auto;
     border: 2px solid;
     padding: 5px;
-    width: 70%;
+    width: 65%;
     text-align: left;
     font-size: 20px;
 }
 
-.bottom {
-    
+.work img {
+    width: 30%;
+    height: auto
 }

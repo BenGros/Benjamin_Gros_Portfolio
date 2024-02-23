@@ -44,9 +44,12 @@
 
 .totop {
     text-decoration: none;
-    padding-top: 20px;
     color: white;
     font-size: 20px;
+    height: auto;
+    float: right;
+    text-align: center;
+    height: 40px;
 }
 
 body {
